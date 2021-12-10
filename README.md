@@ -3,7 +3,7 @@
 # Description
 I often see when someone uses some libraries or CSS Grid to create masonry
 
-I just put it here, maybe someone finds it useful.
+I just put it here, maybe someone will find it useful.
 You can create masonry just with two CSS properties: `column-count` and `column-gap`
 
 ⚠️   &nbsp;&nbsp;I set `column-count` with `js` to not create a lot of `@media` breakpoints
